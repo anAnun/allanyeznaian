@@ -9,8 +9,6 @@ into a new folder
 
 cd username.github.io
 
-echo "Hello World" > index.html
-
 git add --all
 
 git commit -m "Initial commit"
@@ -25,7 +23,7 @@ create-react-app projectname --use-npm
 
 cd projectname
 
-npm install --save react-pdf react-router react-router-dom
+npm install --save react-router react-router-dom
 
 npm install gh-pages --save
 
@@ -44,14 +42,18 @@ inside the "scripts" object add
 "deploy": "gh-pages -d build",
 
 *IMPORTANT IF APP WITH MULTIPLE COMPONENTS AND ROUTES
-{
+
 browserrouter does NOT work.
 you must have this import
+
+```
 import { HashRouter, Route, Switch } from "react-router-dom";
+```
 
 and you must route your components like this
 
-<HashRouter basename="https://ananun.github.io/allanyeznaian">
+```
+<HashRouter basename="https://username.github.io/">
         <Switch>
           <Route exact path="/" component={Component1} />
           <Route exact path="/example" component={Component2} />
@@ -59,10 +61,13 @@ and you must route your components like this
           <Route component={() => <div>404 Not found 1</div>} />
         </Switch>
 </HashRouter>
+```
 
-}
+
 
 git add --all
 git commit -m "message"
 
 npm run deploy
+
+and that should be it!
