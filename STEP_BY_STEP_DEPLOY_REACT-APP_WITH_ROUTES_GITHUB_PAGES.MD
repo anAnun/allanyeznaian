@@ -48,16 +48,15 @@ you must have this import
 import { HashRouter, Route, Switch } from "react-router-dom";
 
 and you must route your components like this
-"
-<HashRouter basename="https://username.github.io/">
+```<HashRouter basename="https://username.github.io/">
         <Switch>
           <Route exact path="/" component={Component1} />
           <Route exact path="/example" component={Component2} />
           <Route exact path="/example2" component={Component3} />
           <Route component={() => <div>404 Not found 1</div>} />
         </Switch>
-</HashRouter>
-"
+```</HashRouter>
+
 
 
 git add --all
