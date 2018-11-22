@@ -34,12 +34,16 @@ under "private":true,
 
 add
 
+```
 "homepage": "https://username.github.io/",
+```
 
 inside the "scripts" object add
 
+```
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build",
+```
 
 *IMPORTANT IF APP WITH MULTIPLE COMPONENTS AND ROUTES
 
