@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/allanyeznaian/static/css/main.bc4bf6cd.chunk.css"
   },
   {
-    "revision": "079113f3bcc40bb0e9100db0b0c17e2a",
+    "revision": "56558efc0c0669e0bcb672ac4c518538",
     "url": "/allanyeznaian/index.html"
   }
 ];
