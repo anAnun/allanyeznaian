@@ -1,9 +1,9 @@
 {
-  "main.css": "/allanyeznaian/static/css/main.8fa856f4.chunk.css",
-  "main.js": "/allanyeznaian/static/js/main.e060d4d6.chunk.js",
-  "main.js.map": "/allanyeznaian/static/js/main.e060d4d6.chunk.js.map",
-  "static/js/1.d3dccf53.chunk.js": "/allanyeznaian/static/js/1.d3dccf53.chunk.js",
-  "static/js/1.d3dccf53.chunk.js.map": "/allanyeznaian/static/js/1.d3dccf53.chunk.js.map",
+  "main.css": "/allanyeznaian/static/css/main.bc4bf6cd.chunk.css",
+  "main.js": "/allanyeznaian/static/js/main.d1b5345b.chunk.js",
+  "main.js.map": "/allanyeznaian/static/js/main.d1b5345b.chunk.js.map",
+  "static/js/1.090f6966.chunk.js": "/allanyeznaian/static/js/1.090f6966.chunk.js",
+  "static/js/1.090f6966.chunk.js.map": "/allanyeznaian/static/js/1.090f6966.chunk.js.map",
   "runtime~main.js": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js",
   "runtime~main.js.map": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js.map",
   "static/media/AllanYeznaian.pdf": "/allanyeznaian/static/media/AllanYeznaian.1f1cfd45.pdf",
@@ -11,8 +11,8 @@
   "static/media/Slider2.jpg": "/allanyeznaian/static/media/Slider2.74b43c64.jpg",
   "static/media/App.css": "/allanyeznaian/static/media/Static.496b32c8.gif",
   "static/media/troll.jpg": "/allanyeznaian/static/media/troll.c26927d5.jpg",
-  "static/css/main.8fa856f4.chunk.css.map": "/allanyeznaian/static/css/main.8fa856f4.chunk.css.map",
+  "static/css/main.bc4bf6cd.chunk.css.map": "/allanyeznaian/static/css/main.bc4bf6cd.chunk.css.map",
   "index.html": "/allanyeznaian/index.html",
-  "precache-manifest.3b6a6fa014981f4406e7db5ecda4bfca.js": "/allanyeznaian/precache-manifest.3b6a6fa014981f4406e7db5ecda4bfca.js",
+  "precache-manifest.1566286b7604c8f634c3a7ac1279b678.js": "/allanyeznaian/precache-manifest.1566286b7604c8f634c3a7ac1279b678.js",
   "service-worker.js": "/allanyeznaian/service-worker.js"
 }
