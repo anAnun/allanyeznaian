@@ -1,7 +1,7 @@
 {
   "main.css": "/allanyeznaian/static/css/main.892d1b7d.chunk.css",
-  "main.js": "/allanyeznaian/static/js/main.6740d543.chunk.js",
-  "main.js.map": "/allanyeznaian/static/js/main.6740d543.chunk.js.map",
+  "main.js": "/allanyeznaian/static/js/main.b391caef.chunk.js",
+  "main.js.map": "/allanyeznaian/static/js/main.b391caef.chunk.js.map",
   "static/js/1.2dd891c4.chunk.js": "/allanyeznaian/static/js/1.2dd891c4.chunk.js",
   "static/js/1.2dd891c4.chunk.js.map": "/allanyeznaian/static/js/1.2dd891c4.chunk.js.map",
   "runtime~main.js": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/allanyeznaian/static/media/logo.5d5d9eef.svg",
   "static/css/main.892d1b7d.chunk.css.map": "/allanyeznaian/static/css/main.892d1b7d.chunk.css.map",
   "index.html": "/allanyeznaian/index.html",
-  "precache-manifest.10a621ed9740145d0009e3f3ab15b91c.js": "/allanyeznaian/precache-manifest.10a621ed9740145d0009e3f3ab15b91c.js",
+  "precache-manifest.f21501eee46750fb8a47781bc937023f.js": "/allanyeznaian/precache-manifest.f21501eee46750fb8a47781bc937023f.js",
   "service-worker.js": "/allanyeznaian/service-worker.js"
 }
