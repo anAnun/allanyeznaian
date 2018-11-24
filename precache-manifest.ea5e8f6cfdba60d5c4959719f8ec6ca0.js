@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/allanyeznaian/static/media/troll.c26927d5.jpg"
   },
   {
-    "revision": "5304d27e1eb0d7e570d5",
-    "url": "/allanyeznaian/static/css/main.590f5b81.chunk.css"
+    "revision": "6d099efce1d476ac6505",
+    "url": "/allanyeznaian/static/css/main.4c2ae5c4.chunk.css"
   },
   {
     "revision": "19831644f2b718887597",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/allanyeznaian/static/media/AllanYeznaian.1f1cfd45.pdf"
   },
   {
-    "revision": "5304d27e1eb0d7e570d5",
-    "url": "/allanyeznaian/static/js/main.5304d27e.chunk.js"
+    "revision": "6d099efce1d476ac6505",
+    "url": "/allanyeznaian/static/js/main.6d099efc.chunk.js"
   },
   {
     "revision": "30173d62b5655e34c9debb0fa97c7298",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/allanyeznaian/static/media/LA.ca77e2f4.jpg"
   },
   {
-    "revision": "8b49ef574681607d89250fe94afe114c",
+    "revision": "8f3d189d09542238ae4be19a895f6a07",
     "url": "/allanyeznaian/index.html"
   }
 ];
