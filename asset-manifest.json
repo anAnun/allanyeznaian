@@ -1,9 +1,9 @@
 {
-  "main.css": "/allanyeznaian/static/css/main.7f05cab1.chunk.css",
-  "main.js": "/allanyeznaian/static/js/main.c6b8cd61.chunk.js",
-  "main.js.map": "/allanyeznaian/static/js/main.c6b8cd61.chunk.js.map",
-  "static/js/1.a63bde4a.chunk.js": "/allanyeznaian/static/js/1.a63bde4a.chunk.js",
-  "static/js/1.a63bde4a.chunk.js.map": "/allanyeznaian/static/js/1.a63bde4a.chunk.js.map",
+  "main.css": "/allanyeznaian/static/css/main.8b339833.chunk.css",
+  "main.js": "/allanyeznaian/static/js/main.09e1f7c4.chunk.js",
+  "main.js.map": "/allanyeznaian/static/js/main.09e1f7c4.chunk.js.map",
+  "static/js/1.19831644.chunk.js": "/allanyeznaian/static/js/1.19831644.chunk.js",
+  "static/js/1.19831644.chunk.js.map": "/allanyeznaian/static/js/1.19831644.chunk.js.map",
   "runtime~main.js": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js",
   "runtime~main.js.map": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js.map",
   "static/media/AllanYeznaian.pdf": "/allanyeznaian/static/media/AllanYeznaian.1f1cfd45.pdf",
@@ -12,8 +12,8 @@
   "static/media/App.css": "/allanyeznaian/static/media/Static.496b32c8.gif",
   "static/media/ButtonChase.css": "/allanyeznaian/static/media/LA.ca77e2f4.jpg",
   "static/media/troll.jpg": "/allanyeznaian/static/media/troll.c26927d5.jpg",
-  "static/css/main.7f05cab1.chunk.css.map": "/allanyeznaian/static/css/main.7f05cab1.chunk.css.map",
+  "static/css/main.8b339833.chunk.css.map": "/allanyeznaian/static/css/main.8b339833.chunk.css.map",
   "index.html": "/allanyeznaian/index.html",
-  "precache-manifest.b4f4d86a2cf0170591f3bea7d97ae836.js": "/allanyeznaian/precache-manifest.b4f4d86a2cf0170591f3bea7d97ae836.js",
+  "precache-manifest.f2efd92004d915761c8d2e2f0a23b9de.js": "/allanyeznaian/precache-manifest.f2efd92004d915761c8d2e2f0a23b9de.js",
   "service-worker.js": "/allanyeznaian/service-worker.js"
 }
