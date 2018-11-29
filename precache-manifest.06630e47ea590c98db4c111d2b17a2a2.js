@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js"
   },
   {
-    "revision": "da9e9a14e2cc8f87dd2e",
-    "url": "/allanyeznaian/static/js/main.da9e9a14.chunk.js"
+    "revision": "22c26113045b50ce1bac",
+    "url": "/allanyeznaian/static/js/main.22c26113.chunk.js"
   },
   {
     "revision": "b915a895d44e5b9a14bd",
     "url": "/allanyeznaian/static/js/1.b915a895.chunk.js"
   },
   {
-    "revision": "da9e9a14e2cc8f87dd2e",
+    "revision": "22c26113045b50ce1bac",
     "url": "/allanyeznaian/static/css/main.ba087593.chunk.css"
   },
   {
-    "revision": "9aaafe02b827a4314c1711db011976e5",
+    "revision": "67464169295718c53f830896eabaee04",
     "url": "/allanyeznaian/index.html"
   }
 ];
