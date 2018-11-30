@@ -1,15 +1,16 @@
 {
-  "main.css": "/allanyeznaian/static/css/main.68e0f067.chunk.css",
-  "main.js": "/allanyeznaian/static/js/main.8442d70d.chunk.js",
-  "main.js.map": "/allanyeznaian/static/js/main.8442d70d.chunk.js.map",
-  "static/js/1.7205cf0a.chunk.js": "/allanyeznaian/static/js/1.7205cf0a.chunk.js",
-  "static/js/1.7205cf0a.chunk.js.map": "/allanyeznaian/static/js/1.7205cf0a.chunk.js.map",
+  "main.css": "/allanyeznaian/static/css/main.5ba84e85.chunk.css",
+  "main.js": "/allanyeznaian/static/js/main.4c6cef29.chunk.js",
+  "main.js.map": "/allanyeznaian/static/js/main.4c6cef29.chunk.js.map",
+  "static/js/1.c6b68a93.chunk.js": "/allanyeznaian/static/js/1.c6b68a93.chunk.js",
+  "static/js/1.c6b68a93.chunk.js.map": "/allanyeznaian/static/js/1.c6b68a93.chunk.js.map",
   "runtime~main.js": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js",
   "runtime~main.js.map": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js.map",
-  "static/css/main.68e0f067.chunk.css.map": "/allanyeznaian/static/css/main.68e0f067.chunk.css.map",
+  "static/css/main.5ba84e85.chunk.css.map": "/allanyeznaian/static/css/main.5ba84e85.chunk.css.map",
   "static/media/AllanYeznaian.pdf": "/allanyeznaian/static/media/AllanYeznaian.1f1cfd45.pdf",
   "static/media/ButtonChase.css": "/allanyeznaian/static/media/LA.43e45e6d.jpg",
+  "static/media/mugicians.png": "/allanyeznaian/static/media/mugicians.bd34b756.png",
   "index.html": "/allanyeznaian/index.html",
-  "precache-manifest.ea0d6cece496c3b2d2417dc04a6c767b.js": "/allanyeznaian/precache-manifest.ea0d6cece496c3b2d2417dc04a6c767b.js",
+  "precache-manifest.5e504dac426e8abd6796232ced09d6ab.js": "/allanyeznaian/precache-manifest.5e504dac426e8abd6796232ced09d6ab.js",
   "service-worker.js": "/allanyeznaian/service-worker.js"
 }
