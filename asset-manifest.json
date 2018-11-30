@@ -1,16 +1,16 @@
 {
-  "main.css": "/allanyeznaian/static/css/main.5ba84e85.chunk.css",
-  "main.js": "/allanyeznaian/static/js/main.f2c10bb5.chunk.js",
-  "main.js.map": "/allanyeznaian/static/js/main.f2c10bb5.chunk.js.map",
+  "main.css": "/allanyeznaian/static/css/main.c38de3f3.chunk.css",
+  "main.js": "/allanyeznaian/static/js/main.0410cc2e.chunk.js",
+  "main.js.map": "/allanyeznaian/static/js/main.0410cc2e.chunk.js.map",
   "static/js/1.c6b68a93.chunk.js": "/allanyeznaian/static/js/1.c6b68a93.chunk.js",
   "static/js/1.c6b68a93.chunk.js.map": "/allanyeznaian/static/js/1.c6b68a93.chunk.js.map",
   "runtime~main.js": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js",
   "runtime~main.js.map": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js.map",
-  "static/css/main.5ba84e85.chunk.css.map": "/allanyeznaian/static/css/main.5ba84e85.chunk.css.map",
+  "static/css/main.c38de3f3.chunk.css.map": "/allanyeznaian/static/css/main.c38de3f3.chunk.css.map",
   "static/media/AllanYeznaian.pdf": "/allanyeznaian/static/media/AllanYeznaian.1f1cfd45.pdf",
   "static/media/ButtonChase.css": "/allanyeznaian/static/media/LA.43e45e6d.jpg",
   "static/media/mugicians.png": "/allanyeznaian/static/media/mugicians.cbdbbe26.png",
   "index.html": "/allanyeznaian/index.html",
-  "precache-manifest.7d0810755e79f3e3c409f7c37c43d204.js": "/allanyeznaian/precache-manifest.7d0810755e79f3e3c409f7c37c43d204.js",
+  "precache-manifest.c71d2a40b2376f130c4db515d95ea934.js": "/allanyeznaian/precache-manifest.c71d2a40b2376f130c4db515d95ea934.js",
   "service-worker.js": "/allanyeznaian/service-worker.js"
 }
