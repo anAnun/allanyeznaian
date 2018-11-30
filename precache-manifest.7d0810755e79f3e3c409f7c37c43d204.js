@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "bd34b7564f0f7dddeff89b044a7ff22a",
-    "url": "/allanyeznaian/static/media/mugicians.bd34b756.png"
+    "revision": "cbdbbe260b9f0bff2b56ad07acca1e65",
+    "url": "/allanyeznaian/static/media/mugicians.cbdbbe26.png"
   },
   {
     "revision": "43e45e6de207a6a58d45287731050ef9",
@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js"
   },
   {
-    "revision": "4c6cef2913d28d1e9da5",
-    "url": "/allanyeznaian/static/js/main.4c6cef29.chunk.js"
+    "revision": "f2c10bb59d707984d075",
+    "url": "/allanyeznaian/static/js/main.f2c10bb5.chunk.js"
   },
   {
     "revision": "c6b68a93b5a405dd16bc",
     "url": "/allanyeznaian/static/js/1.c6b68a93.chunk.js"
   },
   {
-    "revision": "4c6cef2913d28d1e9da5",
+    "revision": "f2c10bb59d707984d075",
     "url": "/allanyeznaian/static/css/main.5ba84e85.chunk.css"
   },
   {
-    "revision": "f6521a3ad823ab455919ce545042ed39",
+    "revision": "9b9de47b7c6bd78f323b8f5fdad93d82",
     "url": "/allanyeznaian/index.html"
   }
 ];
