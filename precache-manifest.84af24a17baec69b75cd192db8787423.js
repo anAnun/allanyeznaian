@@ -4,6 +4,10 @@ self.__precacheManifest = [
     "url": "/allanyeznaian/static/media/mugicians.cbdbbe26.png"
   },
   {
+    "revision": "6b7e9879679038e916ce0d1b09d21347",
+    "url": "/allanyeznaian/static/media/Voice In My Head.6b7e9879.otf"
+  },
+  {
     "revision": "43e45e6de207a6a58d45287731050ef9",
     "url": "/allanyeznaian/static/media/LA.43e45e6d.jpg"
   },
@@ -16,19 +20,19 @@ self.__precacheManifest = [
     "url": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js"
   },
   {
-    "revision": "bc650a3a6fd52ed44691",
-    "url": "/allanyeznaian/static/js/main.bc650a3a.chunk.js"
+    "revision": "85e11d6cef8d4cfbef3d",
+    "url": "/allanyeznaian/static/js/main.85e11d6c.chunk.js"
   },
   {
     "revision": "e25ec8627df869e05a96",
     "url": "/allanyeznaian/static/js/1.e25ec862.chunk.js"
   },
   {
-    "revision": "bc650a3a6fd52ed44691",
-    "url": "/allanyeznaian/static/css/main.3481512a.chunk.css"
+    "revision": "85e11d6cef8d4cfbef3d",
+    "url": "/allanyeznaian/static/css/main.f424f25e.chunk.css"
   },
   {
-    "revision": "37cd0076b2c08181a8629bcab864076e",
+    "revision": "4fe2acbcd6b84c8180cff89a63c79aa8",
     "url": "/allanyeznaian/index.html"
   }
 ];
