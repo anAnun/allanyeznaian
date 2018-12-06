@@ -12,27 +12,27 @@ self.__precacheManifest = [
     "url": "/allanyeznaian/static/media/Future Now.312b980d.ttf"
   },
   {
-    "revision": "0c2e048317c0f5d2a74f3ac23ee30ebf",
-    "url": "/allanyeznaian/static/media/AllanYeznaian.0c2e0483.pdf"
+    "revision": "3c98922dcbfb75b92f8d9156ffe2ce0c",
+    "url": "/allanyeznaian/static/media/AllanYeznaian.3c98922d.pdf"
   },
   {
     "revision": "0a4e9db3152831ba3906",
     "url": "/allanyeznaian/static/js/runtime~main.0a4e9db3.js"
   },
   {
-    "revision": "92d08bae9d5e33058577",
-    "url": "/allanyeznaian/static/js/main.92d08bae.chunk.js"
+    "revision": "cd25fb428da34a02157f",
+    "url": "/allanyeznaian/static/js/main.cd25fb42.chunk.js"
   },
   {
     "revision": "e25ec8627df869e05a96",
     "url": "/allanyeznaian/static/js/1.e25ec862.chunk.js"
   },
   {
-    "revision": "92d08bae9d5e33058577",
+    "revision": "cd25fb428da34a02157f",
     "url": "/allanyeznaian/static/css/main.ae58a583.chunk.css"
   },
   {
-    "revision": "3a976470229ef0dfb4cc0b1798512961",
+    "revision": "a4c3526174b03b4c17b82913117e6038",
     "url": "/allanyeznaian/index.html"
   }
 ];
